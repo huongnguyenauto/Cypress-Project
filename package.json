@@ -1,0 +1,10 @@
+{
+  "name": "MB2C_Project_API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
